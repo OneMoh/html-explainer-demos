@@ -1,0 +1,4 @@
+# Media files: never let git mangle them
+*.mp4  binary
+*.png  binary
+*.jpg  binary
