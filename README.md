@@ -7,7 +7,6 @@
 
 | # | 演示 | 时长 | 视频 | 封面 |
 |---|------|------|------|------|
-| 01 | AI 时代不买课，我自己做条视频（技能介绍：23 种画面风格） | 2:46 | [mp4](videos/01-ai-era-self-made-video.mp4) | [png](covers/01-ai-era-self-made-video.png) |
 | 02 | 港股创新药早盘涨超 5%（NYT 编辑级数据图表） | 2:06 | [mp4](videos/02-hk-innovative-drug-early-session.mp4) | [png](covers/02-hk-innovative-drug-early-session.png) |
 | 03 | 炒股的公司顺手造出了大模型（量化简史） | 1:27 | [mp4](videos/03-quant-company-built-an-llm.mp4) | [png](covers/03-quant-company-built-an-llm.png) |
 
